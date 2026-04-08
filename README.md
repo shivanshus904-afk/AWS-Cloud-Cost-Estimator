@@ -57,6 +57,24 @@ No external dependencies required!
 - [ ] Load configs from YAML file
 - [ ] Compare Reserved vs On-Demand pricing
 
+## 💡 What I Learned
+
+- Learned how AWS pricing works for different services
+- Understood concepts like compute, storage, and pricing models
+- Improved logic building for cost calculation
+
+## 🚧 Challenges Faced
+
+- Understanding AWS pricing structure was confusing at first
+- Handling different pricing units (hourly, monthly, storage size)
+- Making the calculation logic accurate
+
+## Future Improvements
+  
+- Add more AWS services
+- Integrate real-time AWS pricing API
+- Improve UI for better user experience
+  
 ## 📄 License
 
 MIT License
