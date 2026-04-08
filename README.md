@@ -62,4 +62,4 @@ No external dependencies required!
 MIT License
 
 ---
-*Built as part of my Cloud Computing & Cybersecurity portfolio*
+*Built while learning cybersecurity and cloud concepts*
